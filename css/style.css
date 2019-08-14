@@ -1,8 +1,8 @@
 /*
-	Template Name: 
+	Template Name:
 	Author: Themeturn
-	Author URI: http://themeforest.net/user/ThemeTurn
-	Description: 
+	Author URI: https://themeforest.net/user/ThemeTurn
+	Description:
 	Version: 1.0
 */
 
@@ -37,10 +37,10 @@
 */
 
 
-@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,400italic,500italic);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,400italic,500italic);
 
 
 
@@ -57,9 +57,9 @@
 
 @font-face {
 	font-family: 'MyriadPro-Regular';
-	src: url('fonts/MyriadPro-Regular.eot?') format('eot'), 
+	src: url('fonts/MyriadPro-Regular.eot?') format('eot'),
 	     url('fonts/MyriadPro-Regular.otf')  format('opentype'),
-	     url('fonts/MyriadPro-Regular.woff') format('woff'), 
+	     url('fonts/MyriadPro-Regular.woff') format('woff'),
 	     url('fonts/MyriadPro-Regular.ttf')  format('truetype'),
 	     url('fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
 }
@@ -150,7 +150,7 @@ dd {
 body, p{
 	/*font-family: 'MyriadPro-Regular', serif;*/
 	font-family: 'Roboto', sans-serif;
-	font-weight: 400; 
+	font-weight: 400;
 	font-size: 18px;
 	line-height: 30px;
 }
@@ -561,7 +561,7 @@ p{
 
 
 
-/*Section-testimonial 
+/*Section-testimonial
 ==================================================*/
 #section-testimonial{
 	background: #f2f2f1;
@@ -670,7 +670,7 @@ p{
 }
 .contact-left ul li span{
 	color: #fff;
-	
+
 }
 
 .contact-box{
@@ -692,7 +692,7 @@ p{
 	border: 0px;
 }
 .contact-form .btn-default{
-	
+
 	background: #191f21;
 	border: 0px;
 }
