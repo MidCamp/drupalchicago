@@ -93,7 +93,7 @@ a:visited{
 
 
 a:hover{
-	text-decoration: none;
+	text-decoration: underline;
 	color: #0c76ab;
 	cursor: pointer;
 }
@@ -130,7 +130,7 @@ a:focus{
 	outline: 0;
 }
 a{
-	color: #444;
+	color: #337ab7;
 }
 
 a.read-more:hover{
